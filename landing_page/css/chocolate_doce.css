@@ -1,0 +1,52 @@
+.img-size {
+    width: 256px;
+    height: 256px;
+}
+
+.img-1 {
+    background-image: url(../assets/Nestlé.webp);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-2 {
+    background-image: url(../assets/Lindt.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-3 {
+    background-image: url(../assets/Hershey\'s.webp);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-4 {
+    background-image: url(../assets/Cadbury.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-5 {
+    background-image: url(../assets/Ghirardelli.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-6 {
+    background-image: url(../assets/Milka.webp);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-7 {
+    background-image: url(../assets/Toblerone.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-8 {    
+    background-image: url(../assets/Ferrero\ Rocher.jpg);
+    background-position: center;
+    background-size: cover;
+}
