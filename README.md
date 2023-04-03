@@ -8,6 +8,11 @@
 > - **_CSS - Cascading Style Sheets._**
 > - **_FIGMA - Vector graphics Online Editor._**
 
+<p align="center"> 
+→ <a href="https://www.figma.com/file/aS1VRTuMhp3IZycJY2ybP9/Landing-Page-of-CandyStore?node-id=0-1&t=EkbKnME4y93KPaMv-0">Meet my project at Figma to understand the ideia</a>   ←
+    
+</p>
+
 <br>
 
 ---
