@@ -1,0 +1,52 @@
+.img-size {
+    width: 256px;
+    height: 256px;
+}
+
+.img-1 {
+    background-image: url(../assets/brigadeiro.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-2 {
+    background-image: url(../assets/beijinho.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-3 {
+    background-image: url(../assets/Cajuzinho-Doces-PNG.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-4 {
+    background-image: url(../assets/Olho\ de\ Sogra.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-5 {
+    background-image: url(../assets/Quindim.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-6 {
+    background-image: url(../assets/Camafeu\ de\ Nozes.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-7 {
+    background-image: url(../assets/Pé\ de\ Moleque.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-8 {
+    background-image: url(../assets/Palha\ Italiana.png);
+    background-position: center;
+    background-size: cover;
+}

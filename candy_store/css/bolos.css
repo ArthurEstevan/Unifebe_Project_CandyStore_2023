@@ -1,0 +1,52 @@
+.img-size {
+    width: 256px;
+    height: 256px;
+}
+
+.img-1 {
+    background-image: url(../assets/Bolo\ de\ brigadeiro.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-2 {
+    background-image: url(../assets/Bolo\ de\ morango.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-3 {
+    background-image: url(../assets/Bolo\ de\ coco\ gelado.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-4 {
+    background-image: url(../assets/Bolo\ de\ cenoura\ com\ cobertura\ de\ chocolate.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-5 {
+    background-image: url(../assets/Bolo\ de\ laranja.webp);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-6 {
+    background-image: url(../assets/Bolo\ de\ abacaxi.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-7 {
+    background-image: url(../assets/Bolo_Limão.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.img-8 {    
+    background-image: url(../assets/Bolo_Amendoim.png);
+    background-position: center;
+    background-size: cover;
+}
